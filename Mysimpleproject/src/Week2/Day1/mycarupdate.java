@@ -7,6 +7,4 @@ public class mycarupdate {
 mycar obj= new mycar();
 System.out.println("mycar deatils ="+obj.carname);
 	}
-
 }
-;
